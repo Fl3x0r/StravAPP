@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+swagger-codegen/
 eggs/
 .eggs/
 lib/
@@ -127,3 +128,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Java stuff
+swagger-codegen-cli.jar
